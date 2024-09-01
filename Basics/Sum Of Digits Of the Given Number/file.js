@@ -7,9 +7,9 @@ function SumOfDigits(num){
     }
     return sum;
 }
-console.log(SumOfDigits(127))
-console.log(SumOfDigits(7895))
-console.log(SumOfDigits(23))
-console.log(SumOfDigits(8995))
-console.log(SumOfDigits(5623))
-console.log(SumOfDigits(12321))
+console.log(SumOfDigits(127)) 10
+console.log(SumOfDigits(7895)) 29
+console.log(SumOfDigits(23)) 5
+console.log(SumOfDigits(8995)) 31
+console.log(SumOfDigits(5623)) 16
+console.log(SumOfDigits(12321)) 9
